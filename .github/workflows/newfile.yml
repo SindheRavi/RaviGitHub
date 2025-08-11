@@ -12,4 +12,4 @@ jobs:
            - name:  list files
              run:   ls  /
            - name: Read file
-             run: cat /README.md
+             run: cat .github/workflows/README.md
